@@ -40,7 +40,7 @@ GEM
       json
       nokogiri
     rerun (0.6.2)
-    rest-client (1.6.7)
+    rest-client (1.8.0)
       mime-types (>= 1.16)
     ruby-debug-base19 (0.11.25)
       columnize (>= 0.3.1)
