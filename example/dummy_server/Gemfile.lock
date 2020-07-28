@@ -4,7 +4,7 @@ GEM
     archive-tar-minitar (0.5.2)
     coderay (1.0.7)
     columnize (0.3.6)
-    json (1.7.7)
+    json (2.3.0)
     linecache19 (0.5.12)
       ruby_core_source (>= 0.1.4)
     method_source (0.7.1)
